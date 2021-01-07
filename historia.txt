@@ -1,0 +1,3 @@
+Esto es texto de prueba, estoy practicando Git.
+
+Veamos que tal sale.
