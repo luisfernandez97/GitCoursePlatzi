@@ -24,3 +24,8 @@ body
     margin: 0;
     pad: 0.5em;
 }
+.footer{
+    background: green;
+    color: white;
+    text-align: center;
+}
